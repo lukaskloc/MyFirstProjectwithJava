@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/My First Project with Java/task/build/
+/My First Project with Java/task/out/
+/My First Project with Java/task/out/production/classes/
+/Topics/Comparing values. Relational operators/Comparing two integers with basic relational operators/out/
+/Topics/Comparing values. Relational operators/Comparing two integers with basic relational operators/out/production/classes/
+/Topics/Conditional statement/The army of units/out/
+/Topics/Conditional statement/The army of units/out/production/classes/
+/Topics/Formatted output/Creating a personalized greeting based on name and height/out/
+/Topics/Formatted output/Creating a personalized greeting based on name and height/out/production/classes/
+/Topics/Formatted output/The battle for Mathematics/out/
+/Topics/Formatted output/The battle for Mathematics/out/production/classes/
